@@ -26,9 +26,6 @@ nav {
 
 
 
-
-
-
 .nav-link .fejlec {
     color: #000000;
     background-color: rgb(250, 229, 209);   /* Complimentary color: #CDF9F9 */
@@ -157,7 +154,17 @@ h3 {
     color: white;
 }
 
+.center-block {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
 
+.text-center {
+    text-align: center;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
 
 
 
