@@ -1,7 +1,3 @@
-// color: #d80202;
-
-
-
 body {
     position: relative;
     background-color: white; //rgb(250, 229, 209);
@@ -12,9 +8,11 @@ a.navbar-brand, a.nav-link {
     color: black;
 }
 
+/*
 nav {
     background-color: white;//rgb(250, 229, 209);
 }
+*/
 
 .nav>li>a:hover {
     color: white;//rgb(250, 229, 209);
@@ -30,26 +28,25 @@ nav {
     color: #000000;
     background-color: rgb(250, 229, 209);   /* Complimentary color: #CDF9F9 */
 }
-/*
-ul.nav.navbar-nav.nav-pills {
-    color: black;
-    
-}
-*/
+
 
 .szinhaz-section {
     min-height: 500px;
     padding-top: 3rem;
 }
 
-/*
-.bg-faded {
-    background-color: #ffffff;
-}
-*/
+
 
 .navbar-fixed-top {
-    background: white;//rgb(250, 229, 209);
+    background: #E8E8E8;
+    border-bottom: 3px solid red;
+/*    -webkit-filter: blur(5px);*/
+/*
+    //backdrop-filter: blur(5px);
+    //-webkit-filter: brightness(0.8);
+    //filter: brightness(.5);
+*/
+/*    opacity: .9;*/
 }
 
 .bg-szinhaz-dark {
@@ -73,9 +70,10 @@ ul.nav.navbar-nav.nav-pills {
 
 
 .bg-szinhaz-welcome {
+    
     background-image: url('/images/hatterkep.jpg');
     background-size: cover;
-    color: #504747;
+/*    color: #504747;*/
 }
 
 .navbar-toggler {
@@ -166,10 +164,9 @@ h3 {
     padding-top: 15px;
 }
 
-
-
-
-
+#header-top {
+    background-color: #E8E8E8;
+}
 
 
 

@@ -1,0 +1,33 @@
+{
+  "name": "bluroverlay.js",
+  "homepage": "https://github.com/hardikdabhi/bluroverlay.js",
+  "authors": [
+    "Hardik Dabhi <hardik@hardikdabhi.com>",
+    "Twinkle Katoch <contact@twinklekatoch.com>"
+  ],
+  "description": "jQuery plugin for blur overlay",
+  "main": "dist/bluroverlay.min.js",
+  "keywords": [
+    "blur",
+    "overlay",
+    "jquery"
+  ],
+  "license": "GPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "93e410175f",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "93e410175f0536dae09f104d02f921bf4c19e6ff"
+  },
+  "_source": "https://github.com/hardikdabhi/bluroverlay.js.git",
+  "_target": "*",
+  "_originalSource": "bluroverlay.js",
+  "_direct": true
+}
