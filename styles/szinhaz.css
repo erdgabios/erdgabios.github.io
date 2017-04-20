@@ -127,7 +127,13 @@ div.col-sm-3 {
 }
 
 img {
+    border: 1px solid black;
     border-radius: 10px;
+}
+
+img .logo {
+    background-color: #E8E8E8; 
+    
 }
 
 .mucime {
