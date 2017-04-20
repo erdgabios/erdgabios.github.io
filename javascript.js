@@ -7,3 +7,4 @@ var $hamburger = $(".hamburger");
     $hamburger.toggleClass("is-active");
     // Do something else, like open/close menu
   });
+
