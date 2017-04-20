@@ -110,6 +110,10 @@ a.nav-link {
     color: dimgray;
 }
 
+#pic-padding-down-big {
+    padding-bottom: 39px;
+}
+
 ul.nav.nav-tabs {
 /*    padding-bottom: 5px;*/
     border: 2px;
