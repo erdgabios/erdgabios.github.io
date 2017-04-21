@@ -131,6 +131,23 @@ img {
     border-radius: 10px;
 }
 
+/*
+.modal-title {
+    padding-top: 5px;
+}
+*/
+
+.modal-body{
+    max-height: 100%;
+    max-width: 100%;
+}
+
+
+.btn-link {
+    padding: 0px 0px 0px 0px;
+}
+
+
 #logo {
     background-color: #E8E8E8;
     width: 124px;
