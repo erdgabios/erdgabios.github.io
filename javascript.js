@@ -22,3 +22,7 @@ $('#exCollapsingNavbar').on('click', 'a:not(.dropdown-toggle)', function (e) {
     //$logo.toggleClass("is-active");
 });
 
+
+
+
+
